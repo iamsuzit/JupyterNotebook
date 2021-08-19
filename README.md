@@ -1,2 +1,2 @@
 # Data Projects
-Data Analysis
+Exploratory Data Analysis using Jupyter Notebook. 
